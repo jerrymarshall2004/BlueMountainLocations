@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <locations>
     <location category="water" id="1">
-    <title>Bayview Park</title>
-    <score>5</score>
-    <maps>Bayview+Park,Thornbury+Ontario</maps>
+        <title>Bayview Park</title>
+        <score>5</score>
+        <maps>Bayview+Park,Thornbury+Ontario</maps>
+        <test>hi</test>
     </location>
 </locations>
